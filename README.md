@@ -1,4 +1,4 @@
-```diff
+
 **Hi! My name is Francisco, but you can call me Chico. :blush: **
 
 I'm passionate about:
@@ -14,4 +14,4 @@ My hobbies:
 
 Currently based in São Carlos, Brazil.
 Working in an amazing team at [Luizalabs](https://github.com/luizalabs).
-```
+
