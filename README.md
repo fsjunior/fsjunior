@@ -1,4 +1,5 @@
 **Hi! My name is Francisco, but you can call me Chico. :)**
+
 I'm a Brazilian computer scientist passionate about computers and science. I'm involved with software development and machine learning.
 
 I live in São Carlos, Brazil, and I work with an amazing team at [Luizalabs](https://github.com/luizalabs).
