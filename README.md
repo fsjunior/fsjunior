@@ -1,7 +1,17 @@
-**Hi! My name is Francisco, but you can call me Chico. :)**
+```diff
+**Hi! My name is Francisco, but you can call me Chico. :blush: **
 
-I'm a Brazilian computer scientist passionate about computers and science. I'm involved with software development and machine learning.
+I'm passionate about:
++ computers :computer:
++ science :microscope:
++ machine learning :brain:
++ IoT and maker projects :robot:
 
-I live in São Carlos, Brazil, and I work with an amazing team at [Luizalabs](https://github.com/luizalabs).
+My hobbies:
++ :saxophone: ([soundcloud](http://soundcloud.com/francisco-de-souza-junior-4188268/))
++ :camera: ([500px](http://500px.com/fsjunior) and [Instagram](https://www.instagram.com/fsjunior/)).
+ 
 
-When I'm not working, I like to play [sax](http://soundcloud.com/francisco-de-souza-junior-4188268/) and take photographs (see my [500px](http://500px.com/fsjunior) and [Instagram](https://www.instagram.com/fsjunior/) profiles).
+Currently based in São Carlos, Brazil.
+Working in an amazing team at [Luizalabs](https://github.com/luizalabs).
+```
