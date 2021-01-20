@@ -14,6 +14,6 @@ My hobbies (which I'm also passionate about, but not professionally)
 + photographs 📷 (https://www.instagram.com/fsjunior/).
 
 
-! Currently based in São Carlos, 🇧🇷.
+! Currently based in Curitiba, 🇧🇷.
 ! Working with great people at Luizalabs.
 ```
