@@ -10,10 +10,10 @@ I'm a computer scientist passionate about
 + maker projects 🔨
 
 My hobbies (which I'm also passionate about, but not professionally)
-+ sax 🎷 (http://soundcloud.com/francisco-de-souza-junior-4188268/)
-+ photographs 📷 (https://www.instagram.com/fsjunior/).
++ [sax 🎷](http://soundcloud.com/francisco-de-souza-junior-4188268/)
++ [photographs 📷](https://www.instagram.com/fsjunior/).
 
 
 ! Currently based in Curitiba, 🇧🇷.
-! Working with great people at Luizalabs.
+! Working with great people at [Oowlish](https://www.oowlish.com/).
 ```
