@@ -15,5 +15,5 @@ My hobbies (which I'm also passionate about, but not professionally)
 
 
 ! Currently based in Curitiba, 🇧🇷.
-! Working with great people at [Oowlish](https://www.oowlish.com/).
+! Working with great people at [Loadsmart](https://www.loadsmart.com/).
 ```
