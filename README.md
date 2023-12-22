@@ -10,8 +10,10 @@ I'm a computer scientist passionate about
 + maker projects 🔨
 
 My hobbies (which I'm also passionate about, but not professionally)
++ [photography 📷](https://www.instagram.com/fsjunior/).
++ [tennis 🎾](https://letzplay.me/fsjunior)
 + [sax 🎷](http://soundcloud.com/francisco-de-souza-junior-4188268/)
-+ [photographs 📷](https://www.instagram.com/fsjunior/).
++ [coffee ☕](no links here; you must visit me to drink a cup of my coffee)
 
 
 ! Currently based in Curitiba, 🇧🇷.
